@@ -142,3 +142,10 @@ select{
     text-decoration: line-through;
     font-style: italic;
 }
+
+@media screen and (max-width: 415px){
+    .todo-container {
+        margin: 3rem 1rem;
+    }
+    
+}
