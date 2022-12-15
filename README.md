@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://messiasgabriel.github.io/checkout-page/"  target="_blank">
+    <a href="https://messiasgabriel.github.io/To-do-list/"  target="_blank">
       Demo
     </a>
   </h3>
@@ -22,7 +22,7 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://raw.githubusercontent.com/messiasgabriel/To-do-list/main/Screenshot.png)
 
 ### Built With
 
